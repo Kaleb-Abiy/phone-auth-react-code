@@ -1,0 +1,10 @@
+body {
+    color: white;
+}
+
+.users__form {
+    background:#35e853;  
+    width: 700px;
+    margin: 0 auto;
+    padding: 20px;
+}

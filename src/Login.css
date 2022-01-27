@@ -1,0 +1,33 @@
+
+.login__form {
+    width: 500px;
+    background:
+    #35e853;        
+    margin: 0 auto;
+    padding: 20px;
+    height: 300px;
+    border: 1px solid #597ad4;
+    box-shadow:  10px 5px black;
+}
+
+h1 {
+    text-align: center;
+    color: white;
+}
+
+h5{
+    margin-bottom: 5px;
+}
+
+h5, p {
+    color: #1400bf;
+}
+
+.login .login__form .form-content {
+    background: black;
+    width: 100px;
+}
+
+.login__signInButton {
+    margin-top: 20px;
+}
